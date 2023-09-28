@@ -8,10 +8,15 @@ Especialidad: Programación
 
 # ONETP 2023 "Codigo Azul"
 
-## Esta es la app web hecha con el fremwork Flutter
+## App web hecha con el fremwork Flutter
 
-link: https://onetp-89f40.firebaseapp.com/   
+Link: https://onetp-89f40.firebaseapp.com/   
 
+### Acceso
+Para usar la app ingresar cualquier email que 
+tenga un formato válido y cualquier contraseña
+
+### Instalación
 ```
 flutter create -e onetp-app
 cd onetp-app
